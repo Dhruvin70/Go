@@ -1,0 +1,4 @@
+# github.com/gorilla/mux v1.8.0
+github.com/gorilla/mux
+
+// go run -mod=vendor run main go
